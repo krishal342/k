@@ -132,6 +132,7 @@
     }
 
     .header-box i {
+        font-size:28px;
         display: inline;
         touch-action: manipulation;
         position: relative;
@@ -165,4 +166,5 @@
     }
 
 }
+
 
