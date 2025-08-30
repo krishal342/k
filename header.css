@@ -133,6 +133,7 @@
 
     .header-box i {
         display: inline;
+        touch-action: manipulation;
     }
 
 
@@ -160,4 +161,5 @@
     .search-box button {
         padding: 8px 15px;
     }
+
 }
