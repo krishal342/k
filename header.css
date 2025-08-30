@@ -134,6 +134,8 @@
     .header-box i {
         display: inline;
         touch-action: manipulation;
+        position: relative;
+        z-index:10;
     }
 
 
@@ -163,3 +165,4 @@
     }
 
 }
+
